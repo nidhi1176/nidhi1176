@@ -11,7 +11,7 @@ i'm currently working as Junior Data Analyst at IMSOCLIP SOLUTIONS PVT LTD<br>i 
 ![](https://streak-stats.demolab.com/?user=nidhi1176&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nidhi1176&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Someone Said this
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
